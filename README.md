@@ -39,3 +39,7 @@ Run the website with **Ctrl+F5** and try every page in the browser. Run the test
 - Write the form with `asp-for` on each input: it fills in the name, the type and the value for you. A form tag helper with `method="post"` adds the anti-forgery token; put `[ValidateAntiForgeryToken]` on the POST action.
 - Mark the two `Create` actions `[HttpGet]` and `[HttpPost]`. The POST one takes a `Book`, and model binding fills it from the form.
 - The test that adds a book deletes it again afterward, so your database stays as it was.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.

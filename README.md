@@ -1,6 +1,6 @@
-# Practice: BooksPlus
+# Exercise: BooksPlus
 
-Practice code for the lesson **Practice: BooksPlus** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: BooksPlus** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 You'll turn a new ASP.NET Core MVC project into a small bookstore website for the **BooksPlus** database: a home page with featured books, a list of every book, a details page, a search page and a form that adds a book.
 
